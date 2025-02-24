@@ -13,7 +13,7 @@ This tutorial guides you through the steps to create a Windows 10 Virtual Machin
 - Internet Information Services (IIS)
 
 ## Operating Systems Used:
-- Windows 10</b> (21H2)
+- Windows 10</b> (22H2)
   
 ## Prerequisites
 
