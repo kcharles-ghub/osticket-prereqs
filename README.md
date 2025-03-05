@@ -137,3 +137,5 @@ Before you begin, ensure you have the following:
 
 - Browse to your help desk login page: `http://localhost/osTicket/scp/login.php`
 - End Users osTicket URL: `http://localhost/osTicket/`
+
+  That's the end of this tutorial.
